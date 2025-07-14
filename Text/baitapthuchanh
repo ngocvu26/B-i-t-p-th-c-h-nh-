@@ -1,1 +1,44 @@
+Lưu ý : Hiểu tag là gì ? 
 
+A.Heading  
+  Thực hành các tag heading (h1,...,h6) 
+B.BOLD , ITALIC
+  1.Thực hành tag b 
+  2.Thực hành tab i 
+C.Superscript , Subscript 
+  1.Thực hành tag sub 
+  2.Thực hành tag sup 
+D.Line break , Horizontal rules 
+  1.Thực hành tag br 
+  2.Thực hành tag hr 
+E.Paragraph 
+  Hiểu tag p và tạo tự tạo ra một ví dụ 
+    Tips : 
+      Giả sử ta viết nhầm tag <h1></h1> , giờ muốn sửa lại thành h2 ,... , ta sử dụng extension "auto rename tag" , chỉ cần sửa lại tag open thì close tự động sửa theo mà không cần thủ công cho hai tag 
+      (Mình để nó ở đây vì muốn cho mọi người thấy sự khác biệt và nhớ lâu hơn) 
+F.Tự tạo ví dụ tổng hơp từ A - E 
+    Ví dụ : 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ví dụ tổng hợp</title>
+</head>
+<body>
+  <h1>Hey , đây là thẻ H1 này</h1>
+  <p>Xin chào , hôm nay là ngày mấy nhỉ ? <br> A là ngày 14 là một ngày tuyệt vời đẻ tỏ tình <hr> 
+    <i><b>CRUSH</b></i>
+  </p>
+  <p>Tĩnh lặng như H<sub>2</sub>O
+  </p>
+  <p>x . x = x<sup>2</sup></p>
+</body>
+</html>
+
+G.Strong , emphasis , blockquote , qoute , abbr 
+  Thực hành tương tự 
+
+Lưu ý : Phân biệt sự khác biệt i vs em , strong vs b ? 
+
+      
